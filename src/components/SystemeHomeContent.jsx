@@ -1444,7 +1444,7 @@ export default function SystemeFeatures({ sections = [] }) {
                     <p>{section.subtitle}</p>
                     {section.gate_name && (
                       <Link
-                        to={`https://tektime-stage-omega.vercel.app/gate/${section.gate_name}`}
+                        to={`https://tektime.io/gate/${section.gate_name}`}
                         className="sio-detail-link"
                         target="_blank"
                         rel="noopener noreferrer"
