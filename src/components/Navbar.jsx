@@ -101,7 +101,7 @@ export default function Navbar() {
             {t("navbar.pricing")}
           </Link> */}
           <Link
-            to="/login"
+            to={BASE_URL + "/login"}
             className="drawer-item"
             onClick={() => setIsMenuOpen(false)}
           >
