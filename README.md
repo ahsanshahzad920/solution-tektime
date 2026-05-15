@@ -1,2 +1,0 @@
-# solution-tektime
-solution-tektime
