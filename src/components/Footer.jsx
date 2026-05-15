@@ -157,7 +157,7 @@ const Footer = () => {
             >
               {[
                 { text: t("navbar.about_us"), link: "/about" },
-                { text: t("footer.contact_us"), link: "/contact" },
+                // { text: t("footer.contact_us"), link: "/contact" },
                 { text: t("footer.privacy_policy"), link: "/privacy-policy" },
                 {
                   text: t("footer.terms_conditions"),
